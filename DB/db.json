@@ -1,0 +1,248 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Spicy Burger",
+            "price": 85,
+            "count": 0,
+            "selected": false,
+            "category": "b",
+            "description": "Spicy burger is for Spicy food lovers "
+        },
+        {
+            "id": 2,
+            "name": "Classic Burger",
+            "price": 75,
+            "count": 0,
+            "selected": false,
+            "category": "b",
+            "description": "Classic burger is for Classic school lovers "
+        },
+        {
+            "id": 3,
+            "name": "Special burger",
+            "price": 100,
+            "count": 0,
+            "selected": false,
+            "category": "b",
+            "description": "Special burger is for limited time ."
+        },
+        {
+            "id": 4,
+            "name": "Cheese Burger",
+            "price": 50,
+            "count": 0,
+            "selected": false,
+            "category": "b",
+            "description": "Cheese burger is for Cheese lovers. "
+        },
+        {
+            "id": 5,
+            "name": "BBQ Burger",
+            "price": 55,
+            "count": 0,
+            "selected": false,
+            "category": "b",
+            "description": "BBQ burger is for BBQ lovers. "
+        },
+        {
+            "id": 6,
+            "name": "Double Burger",
+            "price": 100,
+            "count": 0,
+            "selected": false,
+            "category": "b",
+            "description": "Double burger means more meat "
+        },
+        {
+            "id": 7,
+            "name": "Double Classic Burger",
+            "price": 90,
+            "count": 0,
+            "selected": false,
+            "category": "b",
+            "description": "Classic burger is for Classic school lovers "
+        },
+        {
+            "id": 8,
+            "name": "Mix Combo",
+            "price": 120,
+            "count": 0,
+            "selected": false,
+            "category": "c",
+            "description": "Combo conatains of 2 Beefs and Chicken burgers "
+        },
+
+        {
+            "id": 9,
+            "name": "Double Beef Combo",
+            "price": 130,
+            "count": 0,
+            "selected": false,
+            "category": "c",
+            "description": "Enjoy this combo with a friend of yours!"
+        },
+        {
+            "id": 10,
+            "name": "Double Chicken Combo",
+            "price": 90,
+            "count": 0,
+            "selected": false,
+            "category": "c",
+            "description": "This combo is made for chicken lovers"
+        },
+        {
+            "id": 11,
+            "name": "Double Beef Combo",
+            "price": 90,
+            "count": 0,
+            "selected": false,
+            "category": "c",
+            "description": "We also didn't forget Beef lovers."
+        },
+        {
+            "id": 12,
+            "name": "Extra Combo",
+            "price": 150,
+            "count": 0,
+            "selected": false,
+            "category": "c",
+            "description": "Double Chicken bruger with cola and fries."
+        },
+        {
+            "id": 13,
+            "name": "Three in the box",
+            "price": 250,
+            "count": 0,
+            "selected": false,
+            "category": "c",
+            "description": "This box is for you and your friends to enjoy!"
+        },
+        {
+            "id": 14,
+            "name": "Beef Pizza",
+            "price": 100,
+            "count": 0,
+            "selected": false,
+            "category": "p",
+            "description": "Who needs a pizza? hurry up and order"
+        },
+        {
+            "id": 15,
+            "name": "Tomato Pizza",
+            "price": 110,
+            "count": 0,
+            "selected": false,
+            "category": "p",
+            "description": "Who needs a pizza? hurry up and order"
+        },
+        {
+            "id": 16,
+            "name": "Marshmello Pizza",
+            "price": 140,
+            "count": 0,
+            "selected": false,
+            "category": "p",
+            "description": "Do you like Marshmello pizza? hurry up and order"
+        },
+        {
+            "id": 17,
+            "name": "Jalapeno Pizza",
+            "price": 140,
+            "count": 0,
+            "selected": false,
+            "category": "p",
+            "description": "Do you like spicy pizza? hurry up and order"
+        },
+        {
+            "id": 18,
+            "name": "Margrita Pizza",
+            "price": 85,
+            "count": 0,
+            "selected": false,
+            "category": "p",
+            "description": "Do you like Cheesey pizza? hurry up and order"
+        },
+        {
+            "id": 19,
+            "name": "Special Pizza",
+            "price": 200,
+            "count": 0,
+            "selected": false,
+            "category": "p",
+            "description": "Do you like Marshmello and tomato pizza?"
+        },
+        {
+            "id": 20,
+            "name": "French Fries",
+            "price": 20,
+            "count": 0,
+            "selected": false,
+            "category": "a",
+            "description": "French Fries with some sauce of your choice"
+        },
+        {
+            "id": 21,
+            "name": "Chicken Drumsticks",
+            "price": 30,
+            "count": 0,
+            "selected": false,
+            "category": "a",
+            "description": "We offer delicious chicken"
+        },
+        {
+            "id": 22,
+            "name": "Nuggets",
+            "price": 50,
+            "count": 0,
+            "selected": false,
+            "category": "a",
+            "description": "Enjoy 20 pieces of delcious nuggets"
+        },
+        {
+            "id": 23,
+            "name": "Coca Cola",
+            "price": 15,
+            "count": 0,
+            "selected": false,
+            "category": "d",
+            "description": "Are you thirsty? then drink your favourite drink"
+        },
+        {
+            "id": 24,
+            "name": "Chocolate milkshake",
+            "price": 40,
+            "count": 0,
+            "selected": false,
+            "category": "d",
+            "description": "This milkshake made specially for chocolate lovers"
+        },
+        {
+            "id": 25,
+            "name": "Strawberry milkshake",
+            "price": 50,
+            "count": 0,
+            "selected": false,
+            "category": "d",
+            "description": "This milkshake made specially for Strawberry lovers"
+        },
+        {
+            "id": 26,
+            "name": "Smoothies ",
+            "price": 35,
+            "count": 0,
+            "selected": false,
+            "category": "d",
+            "description": "A variety of Smoothies you can order from"
+        },
+        {
+            "id": 27,
+            "name": "Water ",
+            "price": 10,
+            "count": 0,
+            "selected": false,
+            "category": "d",
+            "description": "Just Cold water"
+        }
+    ]
+}
